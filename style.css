@@ -31,8 +31,8 @@ tr:hover {
   background-color: lightblue;
 }
 
-tr:nth-child(even) {
-}
+/* tr:nth-child(even) {
+} */
 
 div {
   background-color: lightpink;
